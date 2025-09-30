@@ -12,7 +12,9 @@ Manage students data with nested lists and dictionaries.
 
 
 "Analyze student grades: calculate averages, find top scores, and filter high achievers.
-برنلمه (Score management.py) ، این برنامه برای مدیریت و تحلیل نمرات دانش‌آموزان با استفاده از دیکشنری‌های تو در تو در پایتون نوشته شده است.
+
+
+برنامه (Score management.py) ، این برنامه برای مدیریت و تحلیل نمرات دانش‌آموزان با استفاده از دیکشنری‌های تو در تو در پایتون نوشته شده است.
 
 قابلیت‌های اصلی:
 محاسبه میانگین نمرات هر دانش‌آموز (Section 1):
